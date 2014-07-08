@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Marwah Dawoody
- * Created on April 9, 2014, 7:54 AM
+ * Created on July 3, 2014, 7:54 AM
  * Menu Assignment 3
  */
 
@@ -12,11 +12,10 @@
 using namespace std;
 
 //Global Constants
-//If not a Global Constant get an F
 
 //Function Prototypes
 
-//Execution Begins Here!!!
+//Execution Begins Here
 int main(int argc, char** argv) {
     //Declare menu variables
     int choice;
@@ -339,6 +338,6 @@ int main(int argc, char** argv) {
             default: exitMnu=true;
         }
     }while(!exitMnu);
-    //Exit the program
+  //Exit Stage Right
     return 0;
 }
