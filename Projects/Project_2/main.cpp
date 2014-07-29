@@ -5,6 +5,8 @@
  * A game in which the user is playing rock, paper, scissors, lizard, spock
  * with the computer. it should utilize all of the constructs we have
  * learned up to this point, 
+ * 
+ * version 2 for project 2
  */
 
 //System Libraries
