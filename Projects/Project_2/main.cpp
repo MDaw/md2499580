@@ -32,8 +32,8 @@ int main(int argc, char** argv) {
    short plc;//the player's choice in the game
    char pet[30], color[13], cont1, cont2;//whether or not to continue playing the game
    int game;// determine which game the player wants to play
-   int ttt[9];
- //get data for stats file   
+   int ttt[9];//array for ttt
+ //get data for stats file to out putted into a file   
    cout<<"lets get to know each other"<<endl;
    cout<<"First lets decide on a name"<<endl;
    cout<<"What is your favorite color?"<<endl;
